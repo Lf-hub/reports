@@ -8,6 +8,7 @@ db.sqlite3
 *.pyc
 *.pyo
 __pycache__/
+media
 
 # sistema operacional
 .DS_Store
