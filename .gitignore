@@ -1,1 +1,22 @@
+# ambiente virtual
+*.env
+venv/
 env/
+
+# gerados automaticamente
+db.sqlite3
+*.pyc
+*.pyo
+__pycache__/
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+#logs
+*.log
+*.bak
+*.swp
+
+# outros
+*.class
